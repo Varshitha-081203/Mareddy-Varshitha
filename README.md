@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mareddy Varshitha
+# 👋 Hi, I'm Vijaya Lakshmi  
 ### 📊 Aspiring Data Analyst | Data Scientist  
 
 Turning raw data into clear, actionable insights 🚀  
@@ -11,12 +11,12 @@ Turning raw data into clear, actionable insights 🚀
 
 ## 🌙 About Me
 
-- 🔭 Currently building **data analysis projects** using Python, SQL, Excel, Power BI, and Tableau  
-- 👯 Open to collaborating on **data analytics, business intelligence, and beginner ML projects**  
-- 🤝 Looking to work with **real-world datasets, analytics case studies, and insight-driven problems**  
-- 🌱 Learning **Advanced SQL, Python for Data Analysis, Power BI (DAX), and Machine Learning fundamentals**  
+- 🔭 Building **data analysis projects** using Python, SQL, Excel, Power BI, and Tableau  
+- 👯 Open to collaborating on **data analytics, dashboards, and beginner-level ML projects**  
+- 🤝 Interested in working with **real-world datasets and business-driven problems**  
+- 🌱 Currently learning **Advanced SQL, Python for Data Analysis, Power BI (DAX), and ML fundamentals**  
 - 💬 Ask me about **data cleaning, EDA, SQL queries, Excel formulas, and Power BI dashboards**  
-- ⚡ Fun fact: I genuinely enjoy transforming messy datasets into clean, meaningful stories  
+- ⚡ Fun fact: I enjoy converting messy data into clean insights and meaningful visuals  
 
 ---
 
@@ -55,34 +55,40 @@ Turning raw data into clear, actionable insights 🚀
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects (My Work)
 
 ### 📊 Customer Shopping Trends Analysis  
 **Tools:** Python | SQL | Power BI  
-- Cleaned and analyzed customer purchase data  
-- Identified buying patterns and seasonal trends  
-- Built interactive dashboards for insights  
+- Cleaned and prepared customer purchase datasets  
+- Performed exploratory data analysis to identify trends and patterns  
+- Built interactive Power BI dashboards for insights  
 
-### 📈 Sales Performance Dashboard  
+---
+
+### 📈 Sales Performance Analysis Dashboard  
 **Tools:** Excel | Power BI  
-- Designed KPI dashboards  
-- Analyzed regional and product-wise performance  
+- Analyzed sales data across regions and products  
+- Designed KPI-driven dashboards  
+- Identified high- and low-performing segments  
 
-### 🤖 Machine Learning Project  
+---
+
+### 🧠 Beginner Machine Learning Project  
 **Tools:** Python  
-- Performed data preprocessing and feature engineering  
-- Built and evaluated basic machine learning models  
+- Data preprocessing and feature selection  
+- Implemented basic ML models  
+- Evaluated model performance using standard metrics  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Varshitha-081203&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Varshitha-081203&show_icons=true&theme=radical&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Varshitha-081203&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=Varshitha-081203&theme=radical"/>
 </p>
 
 ---
