@@ -57,11 +57,22 @@ Turning raw data into clear, actionable insights 🚀
 
 ## 📌 Featured Projects (My Work)
 
+### ✋ Hand Gesture Recognition System (Deep Learning)  
+**Tools:** Python | CNN | Computer Vision | TensorFlow / Keras  
+
+- Built a **deep learning–based hand gesture recognition system** using image data  
+- Performed image preprocessing including resizing, normalization, and **data augmentation**  
+- Designed and trained a **CNN model** to classify different hand gestures  
+- Evaluated model performance using **accuracy and validation metrics**  
+- Applications include **human–computer interaction and gesture-based control systems**
+
+---
+
 ### 🧠 Twitter Sentiment Analysis  
 **Tools:** Python | Pandas | Scikit-learn | NLP  
 
-- Processed and cleaned **2,000+ tweets** (unstructured data)  
-- Applied text preprocessing and feature extraction  
+- Processed and cleaned **2,000+ tweets** (unstructured text data)  
+- Applied text preprocessing and feature extraction techniques  
 - Built ML models including **Naive Bayes, SVM, and RNN**  
 - Improved sentiment classification accuracy by **~15%**
 
@@ -70,10 +81,10 @@ Turning raw data into clear, actionable insights 🚀
 ### 🩺 Diabetes Prediction System  
 **Tools:** Python | Scikit-learn | Pandas  
 
-- Analyzed **500+ patient records** using structured data  
+- Analyzed **500+ patient records** using structured healthcare data  
 - Performed EDA and feature selection  
 - Implemented **Logistic Regression, Decision Tree, and Random Forest**  
-- Improved prediction accuracy by **~18%**  
+- Improved prediction accuracy by **~18%**
 
 ---
 
@@ -92,27 +103,7 @@ Turning raw data into clear, actionable insights 🚀
 - Built a **CNN model** for gender classification and age prediction  
 - Applied image preprocessing and data augmentation  
 - Evaluated using **accuracy and MAE**  
-- Optimized model to reduce overfitting  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Varshitha-081203&show_icons=true&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Varshitha-081203&theme=radical&hide_border=true"/>
-</p>
-
----
-
-## ✨ Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Varshitha-081203&label=Profile%20Views&color=blue&style=flat"/>
-</p>
+- Optimized model performance to reduce overfitting  
 
 ---
 
