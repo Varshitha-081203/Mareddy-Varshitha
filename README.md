@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👋 Hi, I'm Vijaya Lakshmi  
-### 📊 Aspiring Data Analyst | Data Scientist  
+# 👋 Hi, I'm Mareddy Varshitha  
+### 📊 Aspiring Data Analyst | AI & Data Science Graduate  
 
 Turning raw data into clear, actionable insights 🚀  
 
@@ -11,12 +11,12 @@ Turning raw data into clear, actionable insights 🚀
 
 ## 🌙 About Me
 
-- 🔭 Building **data analysis projects** using Python, SQL, Excel, Power BI, and Tableau  
-- 👯 Open to collaborating on **data analytics, dashboards, and beginner-level ML projects**  
+- 🔭 Building **data analysis and machine learning projects** using Python, SQL, Excel, Power BI  
+- 👯 Open to collaborating on **data analytics, dashboards, NLP, and ML projects**  
 - 🤝 Interested in working with **real-world datasets and business-driven problems**  
-- 🌱 Currently learning **Advanced SQL, Python for Data Analysis, Power BI (DAX), and ML fundamentals**  
-- 💬 Ask me about **data cleaning, EDA, SQL queries, Excel formulas, and Power BI dashboards**  
-- ⚡ Fun fact: I enjoy converting messy data into clean insights and meaningful visuals  
+- 🌱 Currently learning **Advanced SQL, Power BI (DAX), Machine Learning & GenAI basics**  
+- 💬 Ask me about **data cleaning, EDA, ML models, SQL queries, and dashboards**  
+- ⚡ Fun fact: I enjoy converting messy data into meaningful insights and visuals  
 
 ---
 
@@ -57,38 +57,53 @@ Turning raw data into clear, actionable insights 🚀
 
 ## 📌 Featured Projects (My Work)
 
-### 📊 Customer Shopping Trends Analysis  
-**Tools:** Python | SQL | Power BI  
-- Cleaned and prepared customer purchase datasets  
-- Performed exploratory data analysis to identify trends and patterns  
-- Built interactive Power BI dashboards for insights  
+### 🧠 Twitter Sentiment Analysis  
+**Tools:** Python | Pandas | Scikit-learn | NLP  
+
+- Processed and cleaned **2,000+ tweets** (unstructured data)  
+- Applied text preprocessing and feature extraction  
+- Built ML models including **Naive Bayes, SVM, and RNN**  
+- Improved sentiment classification accuracy by **~15%**
 
 ---
 
-### 📈 Sales Performance Analysis Dashboard  
-**Tools:** Excel | Power BI  
-- Analyzed sales data across regions and products  
-- Designed KPI-driven dashboards  
-- Identified high- and low-performing segments  
+### 🩺 Diabetes Prediction System  
+**Tools:** Python | Scikit-learn | Pandas  
+
+- Analyzed **500+ patient records** using structured data  
+- Performed EDA and feature selection  
+- Implemented **Logistic Regression, Decision Tree, and Random Forest**  
+- Improved prediction accuracy by **~18%**  
 
 ---
 
-### 🧠 Beginner Machine Learning Project  
-**Tools:** Python  
-- Data preprocessing and feature selection  
-- Implemented basic ML models  
-- Evaluated model performance using standard metrics  
+### 📊 Sales Performance Dashboard  
+**Tools:** Excel | Power BI | DAX  
+
+- Cleaned and transformed sales data  
+- Built KPI-driven dashboards for **revenue, profit margin, and growth trends**  
+- Delivered business-ready insights using interactive visuals  
+
+---
+
+### 🧠 CNN-Based Age & Gender Classification  
+**Tools:** Python | Deep Learning | Computer Vision  
+
+- Built a **CNN model** for gender classification and age prediction  
+- Applied image preprocessing and data augmentation  
+- Evaluated using **accuracy and MAE**  
+- Optimized model to reduce overfitting  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Varshitha-081203&show_icons=true&theme=radical&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Varshitha-081203&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Varshitha-081203&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=Varshitha-081203&theme=radical&hide_border=true"/>
 </p>
 
 ---
