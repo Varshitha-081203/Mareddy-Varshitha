@@ -1,9 +1,9 @@
 <div align="center">
 
-# 👋 Hi, I'm Vijaya Lakshmi  
-### 📊 Aspiring Data Analyst | Data Scientist | Data Enthusiast 
+# 👋 Hi, I'm Mareddy Varshitha
+### 📊 Aspiring Data Analyst | Data Scientist  
 
-Turning raw data into meaningful insights 🚀  
+Turning raw data into clear, actionable insights 🚀  
 
 </div>
 
@@ -11,21 +11,22 @@ Turning raw data into meaningful insights 🚀
 
 ## 🌙 About Me
 
-- 🔭 I’m currently working on **Data Analysis projects using Python, SQL, Excel, Power BI, and Tableau**
-- 👯 I’m looking to collaborate on **data analytics, business intelligence, and beginner-friendly machine learning projects**
-- 🤝 I’m looking for help with **real-world datasets, analytics case studies, and performance optimization**
-- 🌱 I’m currently learning **Advanced SQL, Python for Data Analysis, Power BI DAX, and basic Machine Learning**
-- 💬 Ask me about **Excel formulas, SQL queries, data cleaning, EDA, Power BI dashboards**
-- ⚡ Fun fact: **I enjoy turning messy data into clean, meaningful insights and visuals**
+- 🔭 Currently building **data analysis projects** using Python, SQL, Excel, Power BI, and Tableau  
+- 👯 Open to collaborating on **data analytics, business intelligence, and beginner ML projects**  
+- 🤝 Looking to work with **real-world datasets, analytics case studies, and insight-driven problems**  
+- 🌱 Learning **Advanced SQL, Python for Data Analysis, Power BI (DAX), and Machine Learning fundamentals**  
+- 💬 Ask me about **data cleaning, EDA, SQL queries, Excel formulas, and Power BI dashboards**  
+- ⚡ Fun fact: I genuinely enjoy transforming messy datasets into clean, meaningful stories  
+
 ---
 
-## 🌐 Socials
+## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/yourusername" target="_blank">
+<a href="https://www.linkedin.com/in/mareddy-varshitha-1aa871276" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:mareddyvarshitha2003@gmail.com">
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
@@ -56,43 +57,43 @@ Turning raw data into meaningful insights 🚀
 
 ## 📌 Featured Projects
 
-### 📊 Customer Shopping Trends Analysis
+### 📊 Customer Shopping Trends Analysis  
 **Tools:** Python | SQL | Power BI  
 - Cleaned and analyzed customer purchase data  
-- Identified buying patterns & trends  
-- Built interactive dashboards  
+- Identified buying patterns and seasonal trends  
+- Built interactive dashboards for insights  
 
-### 📈 Sales Performance Dashboard
+### 📈 Sales Performance Dashboard  
 **Tools:** Excel | Power BI  
-- Created KPI dashboards  
-- Regional & product-wise insights  
+- Designed KPI dashboards  
+- Analyzed regional and product-wise performance  
 
-### 🤖 Machine Learning Project
+### 🤖 Machine Learning Project  
 **Tools:** Python  
-- Data preprocessing & feature engineering  
-- Built and evaluated ML models  
+- Performed data preprocessing and feature engineering  
+- Built and evaluated basic machine learning models  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Varshitha-081203&show_icons=true&theme=radical"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Varshitha-081203&theme=radical"/>
 </p>
 
 ---
 
-## ✨ Visitor Count
+## ✨ Profile Views
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Varshitha-081203&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 ---
 
 ⭐ **Thanks for visiting my profile!**  
-🚀 Always open to learning, collaboration & opportunities.
+🚀 Always learning, building, and open to collaboration and opportunities.
